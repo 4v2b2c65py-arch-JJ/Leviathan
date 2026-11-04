@@ -13,6 +13,6 @@ Game-intended data/model creation workspace: game landing page, asset replicatio
 
 ## Live Portal
 Vercel: https://leviathan-bs95il3a8-jjonthelaptop-5497s-projects.vercel.app/
-
+https://leviathan-8mo788paq-jjonthelaptop-5497s-projects.vercel.app
 ## License
 MIT
